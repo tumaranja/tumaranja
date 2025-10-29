@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src='https://github.com/tumaranja/tumaranja/blob/main/explorer.gif' alt='Explorer'/>
+
+
 
 <!--
 **tumaranja/tumaranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
