@@ -1,4 +1,4 @@
-<img src='https://github.com/tumaranja/tumaranja/blob/main/explorer.gif' alt='Explorer'/>
+<img src='https://github.com/tumaranja/tumaranja/blob/main/explorer.gif' alt='Explorer' width="100%"/>
 
 
 
