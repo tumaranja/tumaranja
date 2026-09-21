@@ -1,7 +1,7 @@
 ### Hi, I'm Anja
 I come from Serbia, where J is pronounced like Y, so you say my name like _Anya_.
 <br>
-People say I'm a 30-something adult. Inside, I'm actually 3 years old, or maybe 5. Here's actual footage of me solving a problem:
+People say I'm a 30-something adult. Inside, I'm actually 3 years old. Or maybe 5. Here's actual footage of me solving a problem:
 
 <img src='https://github.com/tumaranja/tumaranja/blob/main/explorer.gif' alt='Explorer' width="100%"/>
 
