@@ -1,7 +1,15 @@
 ### Hi, I'm Anja
-I come from Serbia, where J is pronounced like Y, so you say my name like _Anya_.
+My name sounds like _Anya_ because I come from Serbia, where J is pronounced like Y.
 <br>
-People say I'm a 30-something adult. Inside, I'm actually 3 years old. Or maybe 5.
+<br>
+People say I'm an adult. Inside, I'm actually 3 years old. Or maybe 5.
+<br>
+<br>
+I work in technology. For many of us, technology is how we connect, learn, and work, and I want to make that experience better. At the same time, I understand that our brains and bodies are the same as they were tens of thousands of years ago, when we lived a very different kind of life in the savanna. I try to use technology to make the most of today's opportunities while honoring our need for simplicity, community, and the open sky.
+<br>
+<br>
+I'm curious and scrappy. I believe life is best lived when you're free, clear, and brave.
+<br>
 <br>
 Here's actual footage of me solving a problem:
 
