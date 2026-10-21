@@ -1,11 +1,11 @@
 ### Hi, I'm Anja
-My name sounds like _Anya_ because I come from Serbia, where J is pronounced like Y.
+You pronounce it like _Anya_ -- I come from Serbia, where J = Y.
 <br>
 <br>
-People say I'm an adult. Inside, I'm actually 3 years old. Or maybe 5.
+People say I'm an adult. Inside, I'm more like 3 years old. Or 5.
 <br>
 <br>
-I work in technology. For many of us, technology is how we connect, learn, and work, and I want to make that experience better. At the same time, I understand that our brains and bodies are the same as they were tens of thousands of years ago, when we lived a very different kind of life in the savanna. I try to use technology to make the most of today's opportunities while honoring our need for simplicity, community, and the open sky.
+Anyways, I work in tech. Before that, I studied landscape architecture and urban planning. I came into tech because I wanted to make it easy for people to connect, learn, and work together online. I'm excited about what's possible with technology. At the same time, I understand our brains and bodies work the same way as they did tens of thousands of years ago in the savanna. I try to use technology to make the most of today's opportunities while honoring our need for simplicity, community, and the open sky.
 <br>
 <br>
 I'm curious and scrappy. I believe life is best lived when you're free, clear, and brave.
