@@ -1,5 +1,5 @@
 ### Hi, I'm Anja
-Pronounced like _Anya_ -- I come from Serbia, where J = Y.
+Pronounced _Anya_ -- I come from Serbia, where J = Y.
 <br>
 <br>
 People say I'm an adult in my thirties. Inside, I'm more like 3 years old. Or 70. Or both.
